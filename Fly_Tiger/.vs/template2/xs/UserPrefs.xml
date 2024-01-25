@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E86B8173-2FE3-E0C4-B97A-42341F800AD9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Protect_base/Script/Base_script.cs">
+    <Files>
+      <File FileName="Assets/Protect_base/Script/Base_script.cs" Line="69" Column="34" />
+      <File FileName="Assets/Protect_base/Script/Bomber_move.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="template2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Protect_base" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="Base_script.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bcee37ec-d531-4f86-b4bb-a6595b03bab1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
