@@ -23,5 +23,4 @@ Standard Asset : 비행기 모델,  이펙트 파티클 원본<br>
 미션실패음 : https://blog.naver.com/eparkwoo/221187296962<br>
 군가(멸공의 횃불) https://www.army.mil.kr/webapp/user/indexSub.do?codyMenuSeq=213398&siteId=army#d<br>
 박수소리 https://pgtd.tistory.com/115<br>
-<img width="861" alt="image" src="https://github.com/Kikiruru/UnityGameFinalProject/assets/138445610/dbaae00f-d935-47fd-ac71-ea31d47cef24"><br>
 
