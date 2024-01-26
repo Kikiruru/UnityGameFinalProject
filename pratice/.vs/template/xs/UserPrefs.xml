@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5BCFAF61-91E4-183A-D81D-FAD8567847BE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mini Dart Game/BamsongiGenerator.cs">
+    <Files>
+      <File FileName="../Desktop/template/Assets/Scripts/Camera move.cs" Line="19" Column="34" />
+      <File FileName="Assets/Mini Dart Game/BamsongiCtrl.cs" />
+      <File FileName="Assets/Mini Dart Game/BamsongiGenerator.cs" Line="53" Column="48" />
+      <File FileName="Assets/Mini Jumping Game/player.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="template" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Mini Dart Game" expanded="True">
+                <Node name="BamsongiGenerator.cs" selected="True" />
+              </Node>
+              <Node name="Mini Jumping Game" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ff3eeda5-af7f-43e3-8e39-16a27f7d3867" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
