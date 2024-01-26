@@ -15,7 +15,8 @@ template - 수업 실습 및 기말프로젝트에 쓰인 기본 유니티 프�
 기말프로젝트 게임 시연 영상 <br>
 https://youtu.be/_6L13_xoB4s<br>
 
-###기말프로젝트에 사용한 에셋정보
+### 기말프로젝트에 사용한 에셋정보
+유니티 에셋스토어에서 다운<br>
 Open Residential Building Pack : 기지 건물<br>
 Weapons of Choice : 총기 소리 (재장전 소리)<br>
 Standard Asset : 비행기 모델,  이펙트 파티클 원본<br>
